@@ -1,1 +1,1 @@
-This is a software to calculate Nettraffic
+This is a software to calculate Nettraffic,Use Android API.
